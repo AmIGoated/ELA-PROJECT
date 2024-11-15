@@ -12,7 +12,7 @@ p{
 }
 
 header{
-    background: url(assets/bill-gates-bg\ \(1\).jpg);
+    background: url(bill-gates-bg\ \(1\).jpg);
     height: 100vh;
     padding: 0;
     animation: fade-in 4000ms forwards;
